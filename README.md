@@ -6,12 +6,13 @@
   <tr>
     <td valign="top" width="70%">
       
-# 💫 About Me:
+<h2>🚀 About Me:</h2>
+
 Hello! I'm Dhanya, a highly motivated Software Engineer dedicated to solving complex problems and contributing to team success. I'm skilled in Python, front-end development, and working with databases. My experience includes building robust applications, from offline PDF/DOCX summarizers to customer support chatbots. I'm a disciplined and punctual team player, always eager to learn and apply new technologies to deliver efficient solutions.
 
   </td>
-  <td width="30%">
-    <img src="https://github.com/DhanyaMU/DhanyaMU/blob/main/gif1.gif?raw=true" alt="animated-gif" width="200"/>
+  <td width="30%" align="center">
+    <img src="https://github.com/DhanyaMU/DhanyaMU/blob/main/giif.png?raw=true" alt="profile-gif" style="max-width: 100%; height: auto; display: block; object-fit: cover; border-radius: 12px;" />
   </td>
   </tr>
 </table>
