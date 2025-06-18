@@ -1,3 +1,11 @@
+![Header](./your-header-profilepic.png)
+
+
+
+
+
+
+
 # 💫 About Me:
 Hello! I'm Dhanya, a highly motivated Software Engineer dedicated to solving complex problems and contributing to team success. I'm skilled in Python, front-end development, and working with databases. My experience includes building robust applications, from offline PDF/DOCX summarizers to customer support chatbots. I'm a disciplined and punctual team player, always eager to learn and apply new technologies to deliver efficient solutions.
 
