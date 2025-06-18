@@ -11,7 +11,7 @@ Hello! I'm Dhanya, a highly motivated Software Engineer dedicated to solving com
 
   </td>
   <td width="30%">
-    <img src="https://github.com/DhanyaMU/DhanyaMU/blob/main/Gif.gif?raw=true" alt="animated-gif" width="200"/>
+    <img src="https://github.com/DhanyaMU/DhanyaMU/blob/main/gif1.gif?raw=true" alt="animated-gif" width="200"/>
   </td>
   </tr>
 </table>
